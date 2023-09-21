@@ -170,7 +170,10 @@ main {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    /* code found in stack overflow */
     vertical-align: baseline;
+    box-sizing: border-box;
+    display: inline-block;
 }
 
 
