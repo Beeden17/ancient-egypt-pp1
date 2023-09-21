@@ -193,12 +193,13 @@ main {
     display: flex;
     justify-content: space-evenly;
     list-style-type: none;
+    background-color: #edd16e;
 }
 
 #social-media-links i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #00D1FF;
 }
 
 /* Media query: large or landscape phones (576px and up) */
@@ -237,20 +238,21 @@ main {
         font-size: 280%;
         line-height: 75px;
         margin: 0 0.5rem;
-         }
-    
+    }
+
     /* Main content */
     main {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
-         }
-    
+    }
+
     /* Hero */
     #cover-text {
         width: 300px;
         right: 50px;
-         }
-        }
+    }
+}
+
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
