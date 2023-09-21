@@ -44,7 +44,7 @@
       <a href="index.html">
         <h1 id="logo">Ancient Egypt</h1>
       </a>
-      <input type="checkbox" id="nav-toggle" name="nav-toggle" />
+      <input aria-label="Menu button" type="checkbox" id="nav-toggle" name="nav-toggle" />
       <label for="nav-toggle" class="nav-toggle-label">
         <i class="fa-solid fa-bars"></i>
       </label>
@@ -69,6 +69,7 @@
           </h2>
           <label for="first_name">First Name</label>
           <input
+            aria-label="Your first name"
             type="text"
             name="first_name"
             id="first_name"
@@ -78,6 +79,7 @@
           <br />
           <label for="last_name">Last Name</label>
           <input
+            aria-label="Your last name"
             type="text"
             name="last_name"
             id="last_name"
@@ -87,6 +89,7 @@
           <br />
           <label for="email_address">Email Address</label>
           <input
+            aria-label="Your email address"
             type="email"
             name="email_address"
             id="email_address"
@@ -100,6 +103,7 @@
             <div>
               <label for="places-cities">Places/Cities</label>
               <input
+                aria-label="Places/Cities"
                 type="radio"
                 name="topic_preference"
                 id="places-cities"
@@ -110,6 +114,7 @@
             <div>
               <label for="pharaohs">Pharaohs</label>
               <input
+                aria-label="Pharaohs"
                 type="radio"
                 name="topic_preference"
                 id="pharaohs"
@@ -120,6 +125,7 @@
             <div>
               <label for="landmarks">Landmarks</label>
               <input
+                aria-label="Landmarks"
                 type="radio"
                 name="topic_preference"
                 id="landmarks"
@@ -130,6 +136,7 @@
             <div>
               <label for="all">All topics</label>
               <input
+              aria-label="All topics"
                 type="radio"
                 name="topic_preference"
                 id="all"
@@ -139,7 +146,7 @@
               />
             </div>
           </div>
-          <button type="submit" class="join-button">Join In!</button>
+          <button aria-label="Join" type="submit" class="join-button">Join In!</button>
         </form>
       </section>
     </main>
