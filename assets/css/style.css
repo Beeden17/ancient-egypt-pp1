@@ -102,7 +102,7 @@ main {
     /* Enlarge main element to push footer down*/
     flex: 1 0 auto;
     /* Add margin at the top to prevent content from being covered by the header */
-    margin-top: 47px;
+    margin-top: 40px;
     /* Enable flex properties for child elements */
     display: flex;
     flex-direction: column;
@@ -121,7 +121,7 @@ main {
     font-size: 130%;
     position: relative;
     width: 100%;
-    top: 85%;
+    top: 84%;
 }
 
 #cover-text>h2,
@@ -170,6 +170,7 @@ main {
     width: 100%;
     display: flex;
     justify-content: space-between;
+    vertical-align: baseline;
 }
 
 
@@ -191,6 +192,7 @@ main {
     justify-content: space-evenly;
     list-style-type: none;
     background-color: #edd16e;
+    width: 100%;
 }
 
 #social-media-links i {
@@ -204,6 +206,7 @@ main {
     #photos {
         column-count: 2;
         column-gap: 0;
+        height: 100%;
     }
 
 /* Push hero image down for larger screen, top of pyramid hidden by header */
