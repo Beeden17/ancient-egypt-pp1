@@ -215,6 +215,7 @@ main {
 /* Push hero image down for larger screen, top of pyramid hidden by header */
     #hero {
         position: relative;
+        padding-top: 20%;
     }
 /* issue with radio buttons in smaller screen */
     .radio-buttons {
