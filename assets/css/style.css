@@ -25,6 +25,11 @@ h3 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #252525;
+    text-align: center;
+}
+
+p {
+    text-align: center;
 }
 
 .hide-heading {
@@ -66,7 +71,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #edd16e;
+    background-color: #3a3a3a;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -135,14 +140,6 @@ main {
 }
 
 /* Form */
-#join {
-    background-image: url("");
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
-}
-
 
 #join-form {
     color: #ffffff;
