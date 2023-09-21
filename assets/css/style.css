@@ -181,9 +181,10 @@ main {
     margin-top: 20px;
     border-radius: 2px;
     padding: 15px 32px;
-    font-size: 100%;
-    background-color: #454b1b;
-    color: #fafafa;
+    font-size: 180%;
+    background-color: #edd16e;
+    color: #00D1FF;
+    font-family: 'Aboreto',cursive;
 }
 
 /* Footer */
@@ -208,6 +209,17 @@ main {
         column-count: 2;
         column-gap: 0;
     }
+
+    /* Push hero image down for larger screen */
+    #hero {
+        position: relative;
+    }
+
+    .radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
 }
 
 /* Media query: tablets and larger (768px and up) */
