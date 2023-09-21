@@ -71,7 +71,7 @@ header a {
 /* Navbar styles with dropdown toggle */
 nav {
     position: absolute;
-    background-color: #3a3a3a;
+    background-color: #edd16e;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -83,10 +83,6 @@ nav {
 /* Nav toggle */
 #nav-toggle:checked~nav {
     display: block;
-}
-
-#nav-toggle {
-    display: none;
 }
 
 .nav-toggle-label {
