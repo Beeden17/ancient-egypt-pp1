@@ -150,7 +150,25 @@ The images I used were intended to represent the topics explaned in the HOME/Lan
 JOIN page:
 The form had to be rearranged to suit different devices and I had to work out how to present the radio buttons in the correct way on smaller devices while keeping the correct format on larger devices. I achieved this using CSS.
 
+FEATURES LEFT TO IMPLEMENT:
+A new page with a map of Egypt which is interactive.
+
 # 6. DEPLOYMENT
+
+I used GitHub pages to deploy my final project. To do this I had to:
+
+Add files to Git (staging area) and use the commit command, adding a message each time in the IDE terminal, to keep track.
+Use git push command in the IDE terminal to push the code.
+Go to GitHub and load your repository.
+Select settings.
+Go to Code and automation section, select Pages.
+Source should be set to "Deploy from Branch"
+Select Main Branch.
+Folder set to /(root)
+Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+This will now generate a link with your website live.
+
+A link to the live site can be found [here](https://beeden17.github.io/ancient-egypt-pp1/index.html)
 
 # 7. END PRODUCT
 
