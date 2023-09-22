@@ -6,6 +6,8 @@ Welcome to my first project. This project is a history website based on Ancient 
 
 A live website can be found [here](https://github.com/Beeden17/ancient-egypt-pp1.git)
 
+![Responsive on devices](/screenshots/am-i-responsive.png)
+
 # 1. USER EXPERIENCE
 
 Since being a child I have always been interested with Egyptian culture, especially the early dynastic periods, I have read books, been to museums to view artefacts and watched videos or documentaries regarding the subject in awe. However, I have not come across a dedicated website to showcase the inspiring beauty of this fabulous place and the impact it has had on modern times.
@@ -171,6 +173,18 @@ This will now generate a link with your website live.
 A link to the live site can be found [here](https://beeden17.github.io/ancient-egypt-pp1/index.html)
 
 # 7. END PRODUCT
+
+![Top of HOME page](/screenshots/index.html-top.png)
+
+![Bottom of HOME page](/screenshots/index.html-bottom.png)
+
+![EXPLORE top of page](/screenshots/explore.html-top.png)
+
+![EXPLORE middle of page](/screenshots/explore.html-middle.png)
+
+![EXPLORE bottom of page](/screenshots/explore.html-bottom.png)
+
+![JOIN page](/screenshots/join.html-whole.png)
 
 # 8. KNOWN BUGS
 
