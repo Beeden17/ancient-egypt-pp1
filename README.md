@@ -6,7 +6,7 @@ Welcome to my first project. This project is a history website based on Ancient 
 
 A live website can be found [here](https://github.com/Beeden17/ancient-egypt-pp1.git)
 
-![Responsive on devices](/screenshots/am-i-responsive.png)
+![Responsive on devices](assets/screenshots/am-i-responsive.png)
 
 # 1. USER EXPERIENCE
 
@@ -174,17 +174,17 @@ A link to the live site can be found [here](https://beeden17.github.io/ancient-e
 
 # 7. END PRODUCT
 
-![Top of HOME page](/screenshots/index.html-top.png)
+![Top of HOME page](assets/screenshots/index.html-top.png)
 
-![Bottom of HOME page](/screenshots/index.html-bottom.png)
+![Bottom of HOME page](assets/screenshots/index.html-bottom.png)
 
-![EXPLORE top of page](/screenshots/explore.html-top.png)
+![EXPLORE top of page](assets/screenshots/explore.html-top.png)
 
-![EXPLORE middle of page](/screenshots/explore.html-middle.png)
+![EXPLORE middle of page](assets/screenshots/explore.html-middle.png)
 
-![EXPLORE bottom of page](/screenshots/explore.html-bottom.png)
+![EXPLORE bottom of page](assets/screenshots/explore.html-bottom.png)
 
-![JOIN page](/screenshots/join.html-whole.png)
+![JOIN page](assets/screenshots/join.html-whole.png)
 
 # 8. KNOWN BUGS
 
