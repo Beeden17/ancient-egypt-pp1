@@ -174,17 +174,17 @@ A link to the live site can be found [here](https://beeden17.github.io/ancient-e
 
 # 7. END PRODUCT
 
-![Top of HOME page](assets/images/screenshots/index.html-top.png)
+![Top of HOME page](../ancient-egypt-pp1/assets/images/screenshots/index.html-top.png)
 
-![Bottom of HOME page](assets/images/screenshots/index.html-bottom.png)
+![Bottom of HOME page](../ancient-egypt-pp1/assets/images/screenshots/index.html-bottom.png)
 
-![EXPLORE top of page](assets/images/screenshots/explore.html-top.png)
+![EXPLORE top of page](../ancient-egypt-pp1/assets/images/screenshots/explore.html-top.png)
 
-![EXPLORE middle of page](assets/images/screenshots/explore.html-middle.png)
+![EXPLORE middle of page](../ancient-egypt-pp1/assets/images/screenshots/explore.html-middle.png)
 
-![EXPLORE bottom of page](asset/images/screenshots/explore.html-bottom.png)
+![EXPLORE bottom of page](../ancient-egypt-pp1/asset/images/screenshots/explore.html-bottom.png)
 
-![JOIN page](assets/images/screenshots/join.html-whole.png)
+![JOIN page](../ancient-egypt-pp1/assets/images/screenshots/join.html-whole.png)
 
 [Here is a link to the live website](https://beeden17.github.io/ancient-egypt-pp1/index.html)
 
