@@ -174,11 +174,13 @@ A link to the live site can be found [here](https://beeden17.github.io/ancient-e
 
 # 8. KNOWN BUGS
 
+There were no bugs found, only info notes for html, these have been addressed.
+
 # 9. CREDIT
 
 ## CODE
 
-I used some code from the Love Running content, I have used in-line comments in the code where this has been used.
+I have used small sections of code from the Love Running content and stack overflow. I have used in-line comments in the code where this has been used. Also the social media links were from the Love Running project.
 
 ## CONTENT
 
