@@ -186,6 +186,8 @@ A link to the live site can be found [here](https://beeden17.github.io/ancient-e
 
 ![JOIN page](assets/images/screenshots/join.html-whole.png)
 
+[Here is a link to the live website](https://beeden17.github.io/ancient-egypt-pp1/index.html)
+
 # 8. KNOWN BUGS
 
 There were no bugs found, only info notes for html, these have been addressed.
