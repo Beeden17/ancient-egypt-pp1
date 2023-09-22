@@ -30,7 +30,15 @@ This project will give an insight to various topics hoping to inspire the user t
  Form - a section for the user to interact with, entering personal information to submit. Taking them to a form dump page when correct information is inputted.
  
 # 3 TECHNOLOGIES USED
-
+ HTML5 - the project uses HyperText markup language.
+ CSS - the project uses Cascading Style Sheets.
+ MICROSOFT EDGE - the project uses microsoft edge to debug and test the source code.
+ GOOGLE FONTS - Google fonts were used to import the "Aboreto" font into the style.css file, which is used on all pages.
+ FONT AWESOME - this was used to import the icons used throughout the project.
+ FAVICON.IO - this was used to import the favicon used in the browser and tab menu.
+ GITHUB - this was used to store the project's code after being pushed from Git.
+ CODEANYWHERE - this was the environment used to build the project.
+ 
 # 4 TESTING
 
 # 5 DEVELOPMENT CYCLE
