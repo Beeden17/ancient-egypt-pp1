@@ -12,7 +12,7 @@ Since being a child I have always been interested with Egyptian culture, especia
 
 This project will give an insight in to various topics hoping to inform the user and satisfying their curisity.
 
-# 2 FEATURES
+# 2. FEATURES
 
 ## All PAGES
 
@@ -38,7 +38,7 @@ Gallery - a selection of diferent images relative to the topics described, in a 
 
 Form - a section for the user to interact with, entering personal information to submit. Taking them to a form dump page when correct information is inputted.
 
-## TECHNOLOGIES USED
+# 3. TECHNOLOGIES USED
 
 ### HTML5 - the project uses HyperText markup language
 
@@ -56,7 +56,7 @@ Form - a section for the user to interact with, entering personal information to
 
 ### CODEANYWHERE - this was the environment used to build the project
 
-# 4 TESTING
+# 4. TESTING
 
 ### BROWSER DEVELOPER TOOLS
 
@@ -70,16 +70,59 @@ I used Am I Responsive to make sure that all my pages are responsive to all devi
 
 I used W3C Markup to check for any errors within my HTML pages.
 
-I had an Info notice on the .html pages for trailing slashes in the head. The HTML checker notified me that this Trailing slash on void elements has no effect and interacts badly with unquoted attribute values. I returned to the environment to remove these. however no warnings or errors were found
+I had an Info notice on the .html pages for trailing slashes in the head. The HTML checker notified me that this Trailing slash on void elements has no effect and interacts badly with unquoted attribute values. I returned to the environment to remove these. However no warnings or errors were found.
 
 I used Jigsaw W3C CSS Validation to check for any error within my CSS stylesheet. None were found.
 
-# 5 DEVELOPMENT CYCLE
+# 5. DEVELOPMENT CYCLE
 
-# 6 DEPLOYMENT
+I have tested my site on Safari, Edge and google chrome on multiple devices.
 
-# 7 END PRODUCT
+## THESE DEVICES WERE
 
-# 8 KNOWN BUGS
+#### Iphone SE
 
-# 9 CREDIT
+#### Iphone 12 Pro
+
+#### iPad Air
+
+#### iPad Mini
+
+#### Galaxy Fold
+
+#### Laptop with 1024px
+
+#### Laptop with desktop view
+
+## Below is my testing process for all pages via mobile and web
+
+### All PAGES
+
+Navigation Bar:
+
+HOME - When selecting "HOME", the browser redirects me to the HOME page. The text in the navigation bar also underlines black. It worked as expected.
+
+EXPLORE - When selecting "EXPLORE", the browser redirects me to the EXPLORE page. The text in the navigation bar also underlines in black. It worked as expected.
+
+JOIN - When selecting "JOIN", the browser redirects me to the JOIN page. The text in the navigation bar also underlines black. It worked as expected.
+
+### TEXT
+
+I checked that all text is in the correct and consistent size and font. I also checked that there were no typos.
+
+I checked that all pages and elements were responsive. Checking each page on mobile and website and adjusting screen size to find break points. It worked as expected.
+
+### FOOTER
+
+Facebook - When selecting the Facebook icon, a new tab opens and redirects to the Facebook website. It worked as expected.
+Instagram - When selecting the Instagram icon, a new tab opens and redirects to the Instagram website. It worked as expected.
+Twitter - When selecting the Twitter icon, a new tab opens and redirects to the Twitter website. It worked as expected.
+YouTube - When selecting the YouTube icon, a new tab opens and redirects to the YouTube website. It worked as expected.
+
+# 6. DEPLOYMENT
+
+# 7. END PRODUCT
+
+# 8. KNOWN BUGS
+
+# 9. CREDIT
