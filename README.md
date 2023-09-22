@@ -70,13 +70,13 @@ I used Am I Responsive to make sure that all my pages are responsive to all devi
 
 I used W3C Markup to check for any errors within my HTML pages.
 
-I had an Info notice on the .html pages for trailing slashes in the head. The HTML checker notified me that this Trailing slash on void elements has no effect and interacts badly with unquoted attribute values. I returned to the environment to remove these. However no warnings or errors were found.
+I had an Info notice on the .html pages for trailing slashes in the head. The HTML checker notified me that the Trailing slash on void elements has no effect and interacts badly with unquoted attribute values. I returned to the environment to remove these. However no warnings or errors were found.
 
 I used Jigsaw W3C CSS Validation to check for any error within my CSS stylesheet. None were found.
 
-# 5. DEVELOPMENT CYCLE
+## MANUAL TESTING
 
-I have tested my site on Safari, Edge and google chrome on multiple devices.
+I have tested my site on Safari, Edge and google chrome on multiple devices. I also used the codeanywhere IDE to check for any issues before staging and commiting any code.
 
 ## THESE DEVICES WERE
 
@@ -90,11 +90,9 @@ I have tested my site on Safari, Edge and google chrome on multiple devices.
 
 #### Galaxy Fold
 
-#### Laptop with 1024px
+#### Laptop with 1024px and above
 
-#### Laptop with desktop view
-
-## Below is my testing process for all pages via mobile and web
+## BELOW IS MY TESTING PROCESS FOR ALL PAGES VIA MOBILE AND OTHER DEVICES
 
 ### All PAGES
 
@@ -118,6 +116,24 @@ Facebook - When selecting the Facebook icon, a new tab opens and redirects to th
 Instagram - When selecting the Instagram icon, a new tab opens and redirects to the Instagram website. It worked as expected.
 Twitter - When selecting the Twitter icon, a new tab opens and redirects to the Twitter website. It worked as expected.
 YouTube - When selecting the YouTube icon, a new tab opens and redirects to the YouTube website. It worked as expected.
+
+## HOME PAGE
+
+Hero image and cover text:
+checking that the hero image and cover text are responsive on mobile and other devices. This worked as expected.
+
+Discover topics:
+Checking the brief descriptions and icons section is responsive on mobile and other devices. This worked as expected.
+
+## EXPLORE PAGE
+
+Various images expected to load relating to the brief description on the HOME page. Testing all images respond to the screen getting larger. The columns show an increase if this happens. Adding an alt attribute if the image does not load. This worked as expected.
+
+## JOIN PAGE
+
+Expect a form to be shown and responsive on mobile and other devices. Request for user information, for the user to interact with. Testing that each field of the form is required and inputted correctly before submitting. Checking that the JOIN IN/submit button works and processes the form, redirecting to a dump page. It worked as expected.
+
+# 5. DEVELOPMENT CYCLE
 
 # 6. DEPLOYMENT
 
