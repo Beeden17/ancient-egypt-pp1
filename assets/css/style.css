@@ -110,7 +110,7 @@ main {
 
 /* Hero section */
 #hero {
-    height: 600px;
+    height: 620px;
     width: 100%;
     background: url("../images/pexels-alex-azabache-3185480.jpg") no-repeat center center/cover;
     position: relative;
@@ -153,7 +153,7 @@ main {
     margin-bottom: 20px;
 }
 
-
+/* text-input style from Love Running project */
 .text-input {
     background: transparent;
     color: #fafafa;
@@ -179,7 +179,7 @@ main {
 
 .join-button {
     margin-top: 20px;
-    border-radius: 2px;
+    border-radius: 10px;
     padding: 15px 32px;
     font-size: 180%;
     background-color: #edd16e;
@@ -212,12 +212,7 @@ main {
         height: 100%;
     }
 
-/* Push hero image down for larger screen, top of pyramid hidden by header */
-    #hero {
-        position: relative;
-        padding-top: 20%;
-    }
-/* issue with radio buttons in smaller screen */
+/* issue with radio buttons in smaller screen, now fixed */
     .radio-buttons {
     width: 100%;
     display: flex;
@@ -255,21 +250,20 @@ main {
         margin: 0 0.5rem;
     }
 
-    /* Main content */
     main {
-        /* Push main content down to accommodate larger header */
-        margin-top: 79px;
-    }
+        margin-top: 76px;
+        }
+
 }
 
-/* Large devices (laptops and desktops, 992px and up) */
+/* Large devices (992px and up) */
 @media screen and (min-width: 992px) {
     #menu a:hover {
         border-bottom: 1px solid #00D1FF;
     }
 
  /* Explore */
-        #photos {
-            column-count: 3;
+    #photos {
+        column-count: 3;
         }
 }
