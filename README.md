@@ -138,27 +138,17 @@ Expect a form to be shown and responsive on mobile and other devices. Request fo
 There were many elements I changed, re-positioned and added from my original design as they were more visually appealing.
 
 All pages:
-I experimented with many colour variations but always wanted the colours to be relevant to Egypt, using the sand colours to represent the Desert and the Blue to represent the River Nile. I found the colours I have used to contrast well while representing these attributes. The icons used were also an important addition as they are similar to the use of hieroglyphics, also used in Ancient Egypt.
+I experimented with many colour variations but always wanted the colours to be relevant to Egypt, using the yellow colours to represent the Desert and the blue to represent the River Nile. I found the colours I have used to contrast well while representing these important factors. The icons used were also an important addition as they are similar to the use of hieroglyphics, also used in Ancient Egypt. I found the ones i used to represent each section well.
 
-Landing page:
+HOME/Landing page:
 The hero image was a pivotal part of the design as it had to be an image that was synonymous with Egypt, I had researched and used different images but found the final one to be the most suited, it also went well with the colour scheme used throughout the project.
 The Topic section was a part that took quite a lot of research and development as there is a vast amount of information regarding the country. I wanted the information to be brief enough that it is not overwhelming but detailed enough to keep the user intrigued.
 
-Career page:
-I added a statistics panel to show the numbers Sir Alex achieved during his career.
-The original design shows the timeline is continuously on the left side of the page. I decided to change this to make the timeline appear on the centre of the page with the content displaying on the left then the right side of the page. This keeps the user engaged as the content isn't just a block of text.
+EXPLORE page:
+The images I used were intended to represent the topics explaned in the HOME/Landing page. I wanted the images to make the user feel inspired and curious while not being repetitive or too contrasting. I experimented with different layouts on the larger devices until I was happy with the layout. I found that using the masonry layout and using different column counts, I was able to achieve this.
 
-Testimonials page:
-The original wireframe shows this page as an awards page with the same timeline design as the career page however, I changed this to a testimonials page. This is to give the user a better experience with a different format from the career page. As I was planning to use the same design the user would have been less engaged as they felt like they were reading the same content in the same format.
-I added in a cards view, this gives the user smaller amounts of content so it's easy to process. The image on each card also gives the context of who the quote was from.
-
-Gallery page:
-The gallery page has remained the same. I added a hover animation over each photo to give the context of what the image is about.
-
-Contact page:
-After coding the contact page to the original design. I thought that it looked dull, so I added other elements to make this page visually appealing to the users.
-Added google maps location
-Added icons for location, telephone number and contact email.
+JOIN page:
+The form had to be rearranged to suit different devices and I had to work out how to present the radio buttons in the correct way on smaller devices while keeping the correct format on larger devices. I achieved this using CSS.
 
 # 6. DEPLOYMENT
 
